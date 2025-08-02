@@ -87,9 +87,9 @@ for row in range(6):
 |id | name | age | Provice |
 |---|------|-----|--------|
 | 01 | Chan | 19 | Phnom Penh|
-| 01 | Chan Mo| 19 | Banteay Meanchey|
-| 02 | Chanthy | 19 | False|
-| 03 | Chanthy | 19 | False|
-| 04 | Chanthy | 19 | False|
-| 05 | Chanthy | 19 | False|
+| 02 | ChanMo| 19 | Banteay Meanchey|
+| 03 | Chen | 19 | Mondulkiri|
+| 04 | ChanMoon | 19 | Preah Sihanouk|
+| 05 | Chanthy | 19 | Siem Reap|
+| 06 | Chenthy | 19 | Prey Veng|
     
