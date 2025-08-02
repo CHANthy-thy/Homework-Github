@@ -83,13 +83,67 @@ for row in range(6):
 - []  English
 - []  PL
 
-## My Team Projcet
-|id | name | age | Provice |
-|---|------|-----|--------|
-| 01 | Chan | 19 | Phnom Penh|
-| 02 | ChanMo| 19 | Banteay Meanchey|
-| 03 | Chen | 19 | Mondulkiri|
-| 04 | ChanMoon | 19 | Preah Sihanouk|
-| 05 | Chanthy | 19 | Siem Reap|
-| 06 | Chenthy | 19 | Prey Veng|
-    
+## 👨‍🔧 Web Technology Creators
+
+| Language     | Creator            | Country          |
+|--------------|--------------------|------------------|
+| HTML         | Tim Berners-Lee    | 🇬🇧 UK            |
+| CSS          | Håkon Wium Lie     | 🇳🇴 Norway        |
+| JavaScript   | Brendan Eich       | 🇺🇸 USA           |
+| PHP          | Rasmus Lerdorf     | 🇬🇱 Greenland     |
+| Python       | Guido van Rossum   | 🇳🇱 Netherlands   |
+| Java         | James Gosling      | 🇨🇦 Canada        |
+
+  
+## 👨‍💻 🧑‍💻 Our Team Project
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="1pic.jpg" width="100px;" alt="Member1"/><br />
+      <b>Chan</b><br />
+      <span style="color:green;"> HTML</span>
+    </td>
+    <td align="center">
+      <img src="2pic.jpg" width="100px;" alt="Member2"/><br />
+      <b>ChanMo</b><br />
+      <span style="color:green;">CSS</span>
+    </td>
+    <td align="center">
+      <img src="3pic.jpg" width="100px;" alt="Member3"/><br />
+      <b>Chen</b><br />
+      <span style="color:green;">JavaScript</span>
+    </td>
+    <td align="center">
+      <img src="4pic.jpg" width="100px;" alt="Member3"/><br />
+      <b>ChanMoon</b><br />
+      <span style="color:green;">Java</span>
+    </td>
+    <td align="center">
+      <img src="angkor.jpg" width="100px;" alt="Member3"/><br />
+      <b>Chenthy</b><br />
+      <span style="color:green;">Python</span>
+    </td>
+    <td align="center">
+      <img src="mine .jpg" width="100px;" alt="Member3"/><br />
+      <b>Chanthy</b><br />
+      <span style="color:green;">SQL</span>
+    </td>
+  </tr>
+</table>
+
+
+# 💻 My Developer Subjects
+
+[![HTML](https://img.shields.io/badge/HTML-Beginner-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-Styling-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Git](https://img.shields.io/badge/Git-Version_Control-red)](https://git-scm.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-Backend-green)](https://nodejs.org/)
+[![isomorphic-git](https://img.shields.io/badge/isomorphic--git-Git_in_JS-lightgrey)](https://isomorphic-git.org/)
+
+---
+
+
+
+
